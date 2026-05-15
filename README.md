@@ -1,4 +1,4 @@
-# 🚰 Revenue Recovery & Engenharia de Analytics em Saneamento Comercial
+# 🚰 Revenue Recovery Analytics para Saneamento Comercial
 
 > Projeto prático focado na análise técnica e estratégica de uma base de dados hipotética pertencente ao sistema comercial de uma concessionária de saneamento, com foco em otimizar faturamento, arrecadação e sustentabilidade financeira.
 
